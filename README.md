@@ -11,6 +11,5 @@ Tecnologías Utilizadas
 - Bootstrap: Estilos predefinidos para hacer la página más atractiva y responsiva.
 - JSON: Los datos de las películas se obtienen desde un archivo JSON alojado externamente.
 
-Ver la Aplicación
 Puedes acceder a Japflix en el siguiente enlace:
 https://geralalvarez.github.io/Proyecto_JAPFLIX/
