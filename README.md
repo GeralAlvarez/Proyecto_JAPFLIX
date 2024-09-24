@@ -1,4 +1,3 @@
-Japflix
 Japflix es una aplicación web interactiva que permite a los usuarios explorar una lista de películas obtenida desde un archivo JSON, ver detalles sobre cada película y realizar búsquedas según diferentes criterios.
 
 Características
